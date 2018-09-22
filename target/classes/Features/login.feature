@@ -8,6 +8,7 @@ Feature: Free CRM login Feature
 #Then user click on login button
 #Then user is on homepage
 
+#with examples keyword 
 Scenario Outline:
 Given User is already on login page
 Then title of the login page is Free CRM
